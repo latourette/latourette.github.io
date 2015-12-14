@@ -1,0 +1,28 @@
+html,body{
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+}
+.container-fluide{
+  border-top: 50px solid white;
+}
+
+.coly{
+  background-color:red;
+  height: 100px;
+}
+.row1{
+  margin-left: 50px;
+}
+.colg{
+  background-color:green;
+  height: 100px;
+
+}
+.bb{
+  border-bottom: 5px solid white;
+}
+
+.br{
+  border-right: 5px solid white;
+}
