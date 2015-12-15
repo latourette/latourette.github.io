@@ -13,8 +13,8 @@
     <div class="row">
       <div class=" col-sm-2 col "></div>
       <div class=" col-sm-2 col "></div>
-      <div class=" col-sm-2 colg br  bb"></div>
-      <div class=" col-sm-2 colg br bb"></div>
+      <div class=" col-sm-2 colg br  bb"><img src="pic.png"></img></div>
+      <div class=" col-sm-2 colg br bb"><img src="pic.png"></img></div>
       <div class=" col-sm-2 col "></div>
       <div class=" col-sm-2 col"></div>
     </div>
@@ -51,10 +51,7 @@
       <div class=" col-sm-2 coly br "></div>
       <div class=" col-sm-2 col "></div>
     </div>
-<div class="row">
-<div class="footer col-xs-3 col-md-3 col-lg-3"></div>
-<div class="footer col-xs-6 col-md-6 col-lg-6">FOOTER TEST </div>
-<div class="footer col-xs-3 col-md-3 col-lg-3"></div>
+
   </div>
 
 </body>
