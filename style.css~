@@ -5,7 +5,8 @@ html,body{
   background: #222 url("images/bg.png") repeat;
   text-align: center;
 }
-
+Img {background: cover;
+}
 .container-fluide{
 }
 
