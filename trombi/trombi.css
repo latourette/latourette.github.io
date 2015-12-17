@@ -1,0 +1,304 @@
+html{
+color: black;
+}
+
+.container-fluide{
+ ;
+}
+canvas{
+  position: absolute;
+  z-index: 0;
+  width: 100%;
+  height: 1280px;
+}
+p{
+  z-index: 5;
+    color: black;
+    padding-top: 255px;
+    text-align: center;
+    font-size: 200%;
+}
+
+.polaroid-fond {
+  z-index: 5;
+
+  background-color: #333;
+}
+.polaroid-cont {
+  z-index: 5;
+  width: 95%;
+margin-left: 1%;
+margin-right: auto;
+}
+#pola {
+  z-index: 5;
+
+}
+
+.photo-1 {
+  z-index: 5;
+  width: 115%;
+  height: 300px;
+  border: 5px solid white;
+  border-bottom: 50px solid white;
+  margin: 10px;
+  background-image: url("../images/guillaume.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.photo-2 {
+  z-index: 5;
+  width: 115%;
+  height: 300px;
+  border: 5px solid white;
+  border-bottom: 50px solid white;
+  margin: 10px;
+  background-image: url("../images/theo.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.photo-3 {
+  z-index: 5;
+  width: 115%;
+  height: 300px;
+  border: 5px solid white;
+  border-bottom: 50px solid white;
+  margin: 10px;
+  background-image: url("../images/abdel.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.photo-4 {
+  z-index: 5;
+  width: 115%;
+  height: 300px;
+  border: 5px solid white;
+  border-bottom: 50px solid white;
+  margin: 10px;
+  background-image: url("../images/florent.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.photo-5 {
+  z-index: 5;
+  width: 115%;
+  height: 300px;
+  border: 5px solid white;
+  border-bottom: 50px solid white;
+  margin: 10px;
+  background-image: url("../images/ryadh.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.photo-6 {
+  z-index: 5;
+  width: 115%;
+  height: 300px;
+  border: 5px solid white;
+  border-bottom: 50px solid white;
+  margin: 10px;
+  background-image: url("../images/kevinc.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.photo-7 {
+  z-index: 5;
+  width: 115%;
+  height: 300px;
+  border: 5px solid white;
+  border-bottom: 50px solid white;
+  margin: 10px;
+  background-image: url("../images/juliette.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.photo-8 {
+  z-index: 5;
+  width: 115%;
+  height: 300px;
+  border: 5px solid white;
+  border-bottom: 50px solid white;
+  margin: 10px;
+  background-image: url("../images/yannick.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.photo-9 {
+  z-index: 5;
+  width: 115%;
+  height: 300px;
+  border: 5px solid white;
+  border-bottom: 50px solid white;
+  margin: 10px;
+  background-image: url("../images/jerome.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.photo-10 {
+  z-index: 5;
+  width: 115%;
+  height: 300px;
+  border: 5px solid white;
+  border-bottom: 50px solid white;
+  margin: 10px;
+  background-image: url("../images/karine.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.photo-11 {
+  z-index: 5;
+  width: 115%;
+  height: 300px;
+  border: 5px solid white;
+  border-bottom: 50px solid white;
+  margin: 10px;
+  background-image: url("../images/kevinl.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.photo-12 {
+  z-index: 5;
+  width: 115%;
+  height: 300px;
+  border: 5px solid white;
+  border-bottom: 50px solid white;
+  margin: 10px;
+  background-image: url("../images/Adel.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.photo-13 {
+  z-index: 5;
+  width: 115%;
+  height: 300px;
+  border: 5px solid white;
+  border-bottom: 50px solid white;
+  margin: 10px;
+  background-image: url("../images/Marc.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.photo-14 {
+  z-index: 5;
+  width: 115%;
+  height: 300px;
+  border: 5px solid white;
+  border-bottom: 50px solid white;
+  margin: 10px;
+  background-image: url("../images/Yannic.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.photo-15 {
+  z-index: 5;
+  width: 115%;
+  height: 300px;
+  border: 5px solid white;
+  border-bottom: 50px solid white;
+  margin: 10px;
+  background-image: url("../images/Flavien.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.photo-16 {
+  z-index: 5;
+  width: 115%;
+  height: 300px;
+  border: 5px solid white;
+  border-bottom: 50px solid white;
+  margin: 10px;
+  background-image: url("../images/Ahmed.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.photo-17 {
+  z-index: 5;
+  width: 115%;
+  height: 300px;
+  border: 5px solid white;
+  border-bottom: 50px solid white;
+  margin: 10px;
+  background-image: url("../images/Sarah.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.photo-18 {
+  z-index: 5;
+  width: 115%;
+  height: 300px;
+  border: 5px solid white;
+  border-bottom: 50px solid white;
+  margin: 10px;
+  background-image: url("../images/jeanne.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.photo-19 {
+  z-index: 5;
+  width: 115%;
+  height: 300px;
+  border: 5px solid white;
+  border-bottom: 50px solid white;
+  margin: 10px;
+  background-image: url("../images/bruno.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.photo-20 {
+  z-index: 5;
+  width: 115%;
+  height: 300px;
+  border: 5px solid white;
+  border-bottom: 50px solid white;
+  margin: 10px;
+  background-image: url("../images/anthony.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.photo-21 {
+  z-index: 5;
+  width: 115%;
+  height: 300px;
+  border: 5px solid white;
+  border-bottom: 50px solid white;
+  margin: 10px;
+  background-image: url("../images/simon.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.photo-22 {
+  z-index: 5;
+  width: 115%;
+  height: 300px;
+  border: 5px solid white;
+  border-bottom: 50px solid white;
+  margin: 10px;
+  background-image: url("../images/momo.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.photo-23 {
+  z-index: 5;
+  width: 115%;
+  height: 300px;
+  border: 5px solid white;
+  border-bottom: 50px solid white;
+  margin: 10px;
+  background-image: url("../images/nadege.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+}
+.photo-24 {
+  z-index: 5;
+  width: 115%;
+  height: 300px;
+  border: 5px solid white;
+  border-bottom: 50px solid white;
+  margin: 10px;
+  background-image: url("../images/jousna.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
