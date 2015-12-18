@@ -7,11 +7,11 @@
     <script>
     aleatoire=Math.floor(Math.random()*5)
     switch(aleatoire){
-    case 0:document.write("<p>Guillaume la guimauve</p>");break;
-    case 1:document.write("<p>Ecoutez, j'ai un petit problème...</p>");break;
-    case 2:document.write("<p>On va faire des Katas</p>");break;
-    case 3:document.write("<p>Du liquide, du liquide, du liquide</p>");break;
-    case 4:document.write("<p>Théo vient faire sonic</p>");break;
+    case 0:document.write("<div>Guillaume la guimauve</div>");break;
+    case 1:document.write("<div>Ecoutez, j'ai un petit problème...</div>");break;
+    case 2:document.write("<div>On va faire des Katas</div>");break;
+    case 3:document.write("<div>Du liquide, du liquide, du liquide</div>");break;
+    case 4:document.write("<div>Théo vient faire sonic</div>");break;
     }
     </script>
     <script type="text/javascript" src="../trombi/paper-full.js"></script>
@@ -172,8 +172,12 @@
 
     </script>
   </head>
+
   <body>
-    <canvas id="canvas" hidpi="off" resize></canvas>
+
+        <canvas id="canvas" ></canvas>
+
+
 <button onclick="javascript:location.reload();">Recharger la page</button>
   </body>
 </html>
